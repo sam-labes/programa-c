@@ -1,8 +1,8 @@
-#include <stdio.h>
 
 int usuarios;
 float tempo;
 char alfabeto[26];
+const a;
 
 //classe de armazenamento:
 auto tempo;
